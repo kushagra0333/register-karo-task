@@ -1,5 +1,5 @@
 import React from "react";
-import sampleImage from "./Asset/sample1.jpeg";
+import sampleImage from "../Asset/sample1.jpeg";
 import { FaArrowAltCircleRight } from "react-icons/fa";
 
 const text = {

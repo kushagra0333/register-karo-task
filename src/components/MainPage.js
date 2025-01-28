@@ -3,12 +3,12 @@ import { PiSquaresFourLight } from "react-icons/pi";
 import { IoIosPeople } from "react-icons/io";
 import { FaHandshakeSimple } from "react-icons/fa6";
 import { IoIosStar } from "react-icons/io";
-import sample3 from "./Asset/7067548.png";
+import sample3 from "../Asset/7067548.png";
 
 import { IoIosPlayCircle } from "react-icons/io";
 import { MdStars } from "react-icons/md";
 
-import sample2 from "./Asset/3d-male-character-happy-working-on-a-laptop-free-png.webp";
+import sample2 from "../Asset/3d-male-character-happy-working-on-a-laptop-free-png.webp";
 
 const MainPage = () => {
   return (

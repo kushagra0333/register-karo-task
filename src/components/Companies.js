@@ -1,9 +1,9 @@
 import React from "react";
-import img4 from "./Asset/Coinbase-logo.png";
-import img2 from "./Asset/Dropbox-Logo.png";
-import img3 from "./Asset/Spotify_logo_with_text.svg.png";
-import img1 from "./Asset/download (4).png";
-import img5 from "./Asset/Zoom-Logo.png";
+import img4 from "../Asset/Coinbase-logo.png";
+import img2 from "../Asset/Dropbox-Logo.png";
+import img3 from "../Asset/Spotify_logo_with_text.svg.png";
+import img1 from "../Asset/download (4).png";
+import img5 from "../Asset/Zoom-Logo.png";
 
 function Companies() {
   

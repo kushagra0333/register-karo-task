@@ -1,5 +1,5 @@
 import React from "react";
-import sampleImage from "./Asset/vecteezy_smartphone-and-mobile-phone_11047522.png";
+import sampleImage from "../Asset/vecteezy_smartphone-and-mobile-phone_11047522.png";
 import { FaGooglePlay } from "react-icons/fa";
 import { FaApple } from "react-icons/fa";
 

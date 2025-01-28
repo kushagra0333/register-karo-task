@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./Asset/all-icon.png";
+import logo from "../Asset/all-icon.png";
 
 import { FaArrowRight } from "react-icons/fa";
 

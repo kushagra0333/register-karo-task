@@ -1,9 +1,9 @@
 import React from "react";
-import img1 from "./Asset/e7dda523e77516da100b1a88dbaecb3c.jpeg";
-import img2 from "./Asset/adefff9c6fad99774e0aa7808b2270ab.jpeg";
-import img4 from "./Asset/76ceafadb9f758a56d19a086f7505a80.jpeg";
-import img5 from "./Asset/6b913ddf85158d3f3246fba7da982400.jpeg";
-import img6 from "./Asset/ab8c0e971321e0daafdbc3bc3adffb48.jpeg";
+import img1 from "../Asset/e7dda523e77516da100b1a88dbaecb3c.jpeg";
+import img2 from "../Asset/adefff9c6fad99774e0aa7808b2270ab.jpeg";
+import img4 from "../Asset/76ceafadb9f758a56d19a086f7505a80.jpeg";
+import img5 from "../Asset/6b913ddf85158d3f3246fba7da982400.jpeg";
+import img6 from "../Asset/ab8c0e971321e0daafdbc3bc3adffb48.jpeg";
 import { FaArrowRight } from "react-icons/fa";
 
 const Blog = () => {

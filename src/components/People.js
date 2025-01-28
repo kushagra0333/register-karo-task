@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import { FaQuoteLeft, FaChevronLeft, FaChevronRight } from "react-icons/fa";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import sample1 from "./Asset/577fecc62a4c5235cee2977557cb6590.jpg";
+import sample1 from "../Asset/577fecc62a4c5235cee2977557cb6590.jpg";
 
 const customers = [
   {
