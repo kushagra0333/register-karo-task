@@ -30,23 +30,23 @@ const Blog = () => {
   ];
 
   return (
-    <div className="bg-white text-center">
+    <div className="bg-white text-center px-4 sm:px-8 lg:px-16 py-8">
       <div className="text-secondary text-sm pt-8 uppercase tracking-widest">
         Why Register Karo
       </div>
-      <div className="font-bold text-4xl py-2 pb-10">
+      <div className="font-bold text-3xl sm:text-4xl py-2 pb-10">
         Some Numbers are Important
       </div>
-      <div className="flex justify-center gap-8 flex">
+      <div className="flex flex-wrap justify-center gap-8">
         {blog.map((house, index) => (
           <div
             className="bg-white p-5 pb-10 w-full max-w-[352px] mx-auto cursor-pointer"
             key={index}
           >
-            <div className="flex items-center justify-center text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-blue-800 text-[40px] font-bold">
+            <div className="flex items-center justify-center text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-blue-800 text-[40px] sm:text-[50px] font-bold">
               {house.who}
             </div>
-            <div className="text-sm font-semibold max-w-[260px] mx-auto">
+            <div className="text-sm sm:text-base font-semibold max-w-[260px] mx-auto">
               {house.title}
             </div>
           </div>

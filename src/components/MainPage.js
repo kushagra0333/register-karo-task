@@ -92,20 +92,20 @@ const MainPage = () => {
       <div className="relative md:w-1/2 flex ">
         <div className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-1/2 ">
           <img
-            src={sample3}
+            src="https://cdn-icons-png.flaticon.com/512/4674/4674894.png"
             alt="Example"
-            className="w-64 h-auto max-w-md object-cover rounded-lg"
+            className="w-64 mt-12 h-auto max-w-md object-cover rounded-lg"
           />
         </div>
         <div className="relative z-10 w-full">
           <img
-            src={sample2}
+            src="https://static.vecteezy.com/system/resources/previews/013/166/909/non_2x/people-working-at-home-office-and-typing-laptop-online-free-png.png"
             alt="Example"
-            className="w-full h-auto max-w-md object-cover rounded-lg"
+            className="w-full mt-12 h-auto max-w-md object-cover rounded-lg"
           />
         </div>
 
-        <div className="absolute right-0 top-0 flex flex-col space-y-8 justify-end">
+        <div className="absolute right-[-50px] top-0 flex flex-col space-y-8 justify-end z-30">
           <button className="flex items-center bg-gray-50 text-black py-2 px-4 rounded-lg shadow-lg  transition duration-300">
             <span>Annual Compliance</span>
           </button>
